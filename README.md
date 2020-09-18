@@ -7,7 +7,7 @@
 	<a href="https://sopra-ci.cs.tu-dortmund.de/group05/project2/checkstyle/test.html"><img alt="TestDocs" src="https://sopra-ci.cs.tu-dortmund.de/group05/project2/testdoc.svg" /></a>
 </p>
 
-# Projekt 2 im Sopra 20C
+# 7Wonders
 
 In diesem Repository entsteht euer erstes Projekt im Sopra. Für Planung, Modellierung und generelle gruppeninterne Angelegenheiten, verwendet das Wiki des Projektes. 
 

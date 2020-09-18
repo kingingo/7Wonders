@@ -59,7 +59,7 @@ dependencies {
 
 eclipse {
     project {
-        name = 'Projekt 2'
+        name = '7Wonders'
     }
 }
 
